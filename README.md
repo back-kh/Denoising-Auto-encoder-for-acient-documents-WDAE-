@@ -1,3 +1,3 @@
-# Denoising-Auto-encoder-for-acient-documents-WDAE-
-Denoising Auto-encoder for ancient documents (WDAE)
+# Document Enhancement and Binarization for Ancient Documents (PALM-GAN)
+Document Enhancement and Binarization for Ancient Documents (PALM-GAN)
 Coming soon
